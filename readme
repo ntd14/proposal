@@ -10,5 +10,5 @@ to send to github:
 If origin_exp_paper is undefined use:
 	git remote add origin_proposal https://github.com/ntd14/proposal.git
 
-
-	Change made from inside eclipse >> push to github
+In eclipse go to git tab then right click proposal click commit then click push to upstream
+Remeber to save changes first
