@@ -1,2 +1,9 @@
-/proposal.pdf
 /proposal.synctex.gz
+/*.aux
+/tmp/
+/*.dvi
+/*.out
+/.texlipse
+/.project
+/.gitignore
+/proposal.log
