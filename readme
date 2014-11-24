@@ -1,11 +1,14 @@
 use origin_proposal rather than defalt git use of origin to push to git
 
-to update: 
+to update:
  	git add . or git add file_name
-then to commit to local repo: 
+then to commit to local repo:
 	git commit -m "some message is needed"
 to send to github:
 	git push -u origin_proposal master
 
 If origin_exp_paper is undefined use:
 	git remote add origin_proposal https://github.com/ntd14/proposal.git
+
+
+	Change made from inside eclipse >> push to github
