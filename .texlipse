@@ -1,5 +1,5 @@
 #TeXlipse project settings
-#Mon Nov 24 17:44:29 GMT 2014
+#Tue Dec 02 08:55:58 GMT 2014
 markTmpDer=true
 builderNum=2
 outputDir=
@@ -9,6 +9,6 @@ outputFormat=pdf
 tempDir=
 mainTexFile=proposal.tex
 outputFile=proposal.pdf
-langSpell=
+langSpell=en
 markDer=true
 srcDir=
