@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2014.11.22)  12 DEC 2014 14:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2014.11.22)  12 DEC 2014 15:33
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -759,22 +759,22 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 29.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
-Overfull \hbox (35.33308pt too wide) in paragraph at lines 275--278
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
+Overfull \hbox (35.33308pt too wide) in paragraph at lines 292--295
 [][]\OT1/cmr/m/n/10 Potentually use NIR http://www.afs-journal.org/articles/for
 est/pdf/2002/05/05.pdf
  []
 
-[5] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 376.
+[6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 393.
  [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 376.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 393.
  (./proposal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 376.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 376.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 393.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 393.
 Package rerunfilecheck Info: File `proposal.out' has not changed.
 (rerunfilecheck)             Checksum: 0E34CE5DB2E9E2139AEF0E324B58E44D;1363.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 376.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 393.
  ) 
 Here is how much of TeX's memory you used:
  7084 strings out of 493108
@@ -789,7 +789,7 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r17.pfb>
-Output written on proposal.pdf (7 pages, 90272 bytes).
+Output written on proposal.pdf (7 pages, 90998 bytes).
 PDF statistics:
  142 PDF objects out of 1000 (max. 8388607)
  126 compressed objects within 2 object streams
