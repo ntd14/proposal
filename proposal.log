@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2014.11.22)  23 JAN 2015 16:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2014.11.22)  26 JAN 2015 17:04
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -761,45 +761,39 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8
 ] [9] [10] [11] [12]
-[13]
-Overfull \hbox (3.6395pt too wide) in paragraph at lines 799--811
-\OT1/cmr/m/n/10 Ecualip-tus species, in par-tic-u-lar bo-sis-tona are show-ing 
-promise within the NZDFI
+[13] [14]
+Overfull \hbox (3.0006pt too wide) in paragraph at lines 875--879
+[][]\OT1/cmr/m/n/10 statistical meth-ods: Al-though the par-tic-u-lar sta-tis-t
+i-cal tech-neques best suited
  []
 
-[14]
-Overfull \hbox (35.33308pt too wide) in paragraph at lines 858--861
-[][]\OT1/cmr/m/n/10 Potentually use NIR http://www.afs-journal.org/articles/for
-est/pdf/2002/05/05.pdf
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 881.
 [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 881.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 901.
+ [16]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 901.
  (./proposal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 881.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 881.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 901.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 901.
 Package rerunfilecheck Info: File `proposal.out' has not changed.
-(rerunfilecheck)             Checksum: FA1E9BA3D5A5EF4183BC23EB3663B8AB;1405.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 881.
+(rerunfilecheck)             Checksum: 8BC0261E0902CE3CD36FD411F53840A6;1039.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 901.
  ) 
 Here is how much of TeX's memory you used:
- 7091 strings out of 493108
- 100557 string characters out of 6140724
+ 7082 strings out of 493108
+ 100393 string characters out of 6140724
  186212 words of memory out of 5000000
- 10409 multiletter control sequences out of 15000+600000
- 10122 words of font info for 40 fonts, out of 8000000 for 9000
+ 10404 multiletter control sequences out of 15000+600000
+ 9814 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,6n,28p,280b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r17.pfb>
-Output written on proposal.pdf (15 pages, 117768 bytes).
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr17.pfb>
+Output written on proposal.pdf (16 pages, 106592 bytes).
 PDF statistics:
- 176 PDF objects out of 1000 (max. 8388607)
- 152 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 153 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 160 PDF objects out of 1000 (max. 8388607)
+ 136 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
