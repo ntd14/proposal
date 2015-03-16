@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.3.6)  13 MAR 2015 17:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.3.6)  16 MAR 2015 16:59
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -773,26 +773,26 @@ ere pre-sented, Hejnow-
  []
 
 [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26]
-[27] [28] [29] [30] [31]
-Overfull \hbox (37.55637pt too wide) in paragraph at lines 1075--1124
+[27] [28] [29] [30] [31] [32]
+Overfull \hbox (37.55637pt too wide) in paragraph at lines 1104--1153
 [][] 
  []
 
-[32] [33]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1144.
- [34]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1144.
+[33] [34]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1173.
+ [35]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1173.
  (./proposal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1144.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1144.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1173.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1173.
 
 Package rerunfilecheck Info: File `proposal.out' has not changed.
 (rerunfilecheck)             Checksum: 1B736E67B63C75D583C21C5F2AAC1E87;1076.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1144.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1173.
  ) 
 Here is how much of TeX's memory you used:
- 7161 strings out of 493108
- 101496 string characters out of 6140726
+ 7162 strings out of 493108
+ 101503 string characters out of 6140726
  184530 words of memory out of 5000000
  10452 multiletter control sequences out of 15000+600000
  12177 words of font info for 51 fonts, out of 8000000 for 9000
@@ -803,10 +803,10 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 i10.pfb>
-Output written on proposal.pdf (34 pages, 133949 bytes).
+Output written on proposal.pdf (35 pages, 135663 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 205 compressed objects within 3 object streams
- 51 named destinations out of 1000 (max. 500000)
+ 253 PDF objects out of 1000 (max. 8388607)
+ 208 compressed objects within 3 object streams
+ 52 named destinations out of 1000 (max. 500000)
  129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
