@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.3.6)  23 MAR 2015 19:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.3.6)  28 MAR 2015 14:17
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -675,7 +675,8 @@ Package: parskip 2001/04/09 non-zero parskip adjustments
 )
 (/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-) (./proposal.aux)
+)
+No file proposal.aux.
 \openout1 = `proposal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -694,7 +695,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 20.
-
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
@@ -743,8 +743,6 @@ LaTeX Info: Redefining \Ref on input line 513.
 LaTeX Info: Redefining \ref on input line 20.
 LaTeX Info: Redefining \pageref on input line 20.
 LaTeX Info: Redefining \nameref on input line 20.
-
-(./proposal.out) (./proposal.out)
 \@outlinefile=\write3
 \openout3 = `proposal.out'.
 
@@ -798,31 +796,28 @@ Package rerunfilecheck Warning: File `proposal.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `proposal.out':
-(rerunfilecheck)             Before: 44F2110F2C93E69F45F4648D70184780;1461
+(rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  4AEE00FEAB426A391E81DFEE1754306F;1393.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1188.
  ) 
 Here is how much of TeX's memory you used:
- 7177 strings out of 493108
- 101678 string characters out of 6140726
- 183530 words of memory out of 5000000
- 10459 multiletter control sequences out of 15000+600000
+ 7147 strings out of 493108
+ 101293 string characters out of 6140726
+ 183426 words of memory out of 5000000
+ 10436 multiletter control sequences out of 15000+600000
  12512 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,6n,28p,280b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section.12} has been referenced but does not exis
-t, replaced by a fixed one
-
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on proposal.pdf (36 pages, 141228 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
+share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on proposal.pdf (36 pages, 139793 bytes).
 PDF statistics:
- 287 PDF objects out of 1000 (max. 8388607)
- 240 compressed objects within 3 object streams
- 59 named destinations out of 1000 (max. 500000)
- 177 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 218 PDF objects out of 1000 (max. 8388607)
+ 172 compressed objects within 2 object streams
+ 58 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
